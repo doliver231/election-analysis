@@ -47,6 +47,18 @@ The analysis of the election show that:
 - The county with the highest turnout was:
     - Denver, which had 82.8% of the vote and 306,055 number of votes
 
+##### Deliverable 1 - Election Results Printed to the Command Line (Terminal)
+![Output to Terminal](https://github.com/doliver231/election-analysis/blob/main/Resources/Deliverable1_OutputTerminal.png)
+
+##### Deliverable 2 - Election Results Saved to a Text File
+![Output to Text File](https://github.com/doliver231/election-analysis/blob/main/Resources/Deliverable2_OutputTextFile.png)
+
+##### Python Code used to calculate the winning candidate
+![Python Code for Winning Candidate](https://github.com/doliver231/election-analysis/blob/main/Resources/candidate_votes.png)
+
+##### Python Code used to calculate the county with highest turnout
+![Python Code for Highest County Turnout](https://github.com/doliver231/election-analysis/blob/main/Resources/county_votes.png)
+
 ## Election Audit Summary
 
 The Python script that was created was successful in gathering the vast amounts of data in the csv file and outputting the necessary information in a concise and simple format. The same code, with a few modifications, can be utilized for other similar elections with larger data sets and more candidate participants. 
